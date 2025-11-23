@@ -1,5 +1,5 @@
 {
-  "name": "ioe-k4-2022-2023-số-02",
+  "name": "ioe-k4-đề-số-2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react": "^19.2.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
